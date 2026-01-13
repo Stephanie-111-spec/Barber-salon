@@ -20,7 +20,7 @@ background:
       rgba(15, 15, 15, 0.8) 75%,
       #0f0f0f 100%
     ),
-    url("image/fond1.jpg");
+    url("images/fond1.jpg");
 
   background-size: cover;
   background-position: center;
@@ -147,7 +147,7 @@ h3 {
       rgba(15, 15, 15, 0.4) 45%,
       rgba(15, 15, 15, 0) 65%
     ),
-    url("image/fond2.jpg");
+    url("images/fond2.jpg");
 
   background-size: cover;
   background-position: center;
